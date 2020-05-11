@@ -1,0 +1,1 @@
+/usr/bin/gcc-7 -g  -rdynamic CMakeFiles/shiyan4.dir/main.c.o CMakeFiles/shiyan4.dir/extmem.c.o  -o shiyan4 

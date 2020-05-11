@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++-7"
+	BuildStamp="20200505-0300-Experimental"
+	Name="TABLET-VIEEEIV0"
+	Generator="ctest-3.10.2"
+	CompilerName="/usr/bin/g++-7"
+	CompilerVersion="7.4.0"
+	OSName="Linux"
+	Hostname="TABLET-VIEEEIV0"
+	OSRelease="4.4.0-18362-Microsoft"
+	OSVersion="#476-Microsoft Fri Nov 01 16:53:00 PST 2019"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ProcessorCacheSize="256"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="49152"
+	TotalPhysicalMemory="16227"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2112"
+	>
+	<Testing>
+		<StartDateTime>May 05 11:00 CST</StartDateTime>
+		<StartTestTime>1588647640</StartTestTime>
+		<TestList/>
+		<EndDateTime>May 05 11:00 CST</EndDateTime>
+		<EndTestTime>1588647640</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

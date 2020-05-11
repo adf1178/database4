@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/c/Users/wcz/Documents/cwork/shiyan4/build",
+  "command": "/usr/bin/gcc-7   -g   -o CMakeFiles/shiyan4.dir/main.c.o   -c /mnt/c/Users/wcz/Documents/cwork/shiyan4/main.c",
+  "file": "/mnt/c/Users/wcz/Documents/cwork/shiyan4/main.c"
+},
+{
+  "directory": "/mnt/c/Users/wcz/Documents/cwork/shiyan4/build",
+  "command": "/usr/bin/gcc-7   -g   -o CMakeFiles/shiyan4.dir/extmem.c.o   -c /mnt/c/Users/wcz/Documents/cwork/shiyan4/extmem.c",
+  "file": "/mnt/c/Users/wcz/Documents/cwork/shiyan4/extmem.c"
+}
+]
